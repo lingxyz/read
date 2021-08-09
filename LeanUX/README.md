@@ -1,6 +1,3 @@
-> 公开发布：https://zhangling.me/read/LeanUX/ ，需同步更新。
-[toc]
-
 # 📒 精读《LeanUX》
 > [豆瓣](https://book.douban.com/subject/24896848/) | [PDF电子版](精益设计.pdf ':ignore')
 
